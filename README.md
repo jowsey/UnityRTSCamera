@@ -14,4 +14,6 @@ A configurable 3D RTS-style camera for Unity.
     <li>Only two files, very easy to modify </li>
     <li>Configurable limits </li>
   </ul>
+  
+  <sup>Note: Camera comes with Unity's URP script. If you're not using URP, you can remove the unknown script from the camera prefab, and it'll work perfectly fine.</sup>
 </div>
